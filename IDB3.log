@@ -1,0 +1,1301 @@
+commit d26fcf076fa9c633c5ad50d756874fb269a22129
+Author: trevorhuis <trevorhuis@utexas.edu>
+Date:   Thu Apr 25 20:20:03 2019 -0500
+
+    update about
+
+commit 7dffcb52358c928e0a08ee11e8ed1c0c7fbd6257
+Author: trevorhuis <trevorhuis@utexas.edu>
+Date:   Thu Apr 25 20:09:03 2019 -0500
+
+    search bar complete
+
+commit dd9c22f4963da9202bfc2931b9c20c55d2133589
+Author: trevorhuis <trevorhuis@utexas.edu>
+Date:   Thu Apr 25 20:03:16 2019 -0500
+
+    Added search feature
+
+commit 1baf2298ea983f082a8c75e6b088caf4554067d5
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Thu Apr 25 23:23:33 2019 +0000
+
+    Update front-page statistics
+
+commit 2d2b38eff4358ba7a2f6f981855bb68dfa0b0247
+Author: Nicolas Arrieche <nicolas.arrieche@utexas.edu>
+Date:   Thu Apr 25 20:37:49 2019 +0000
+
+    Added link to speaker deck
+
+commit 83f858a5ff70bf637f39239850de79e4ae4f7673
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Thu Apr 4 21:06:18 2019 -0500
+
+    Adding IDB2.log
+
+commit 8aa0e969896a49214fec4df370cbfbe859bce110
+Author: Nicolas Arrieche <nicolas.arrieche@utexas.edu>
+Date:   Fri Apr 5 02:03:44 2019 +0000
+
+    Update about.html
+
+commit 629975ee8f06b55e181c6020af925033cfeaf6de
+Author: Trevor Huis in 't Veld <trevorh.9173@gmail.com>
+Date:   Fri Apr 5 00:04:40 2019 +0000
+
+    Update create_db.py
+
+commit 6f10871b474a301195b53df5b00186a96c23d0af
+Author: Trevor Huis in 't Veld <trevorh.9173@gmail.com>
+Date:   Fri Apr 5 00:03:09 2019 +0000
+
+    Update models.py
+
+commit 875581626d7208b22d8eb2a25a1a2ff81fd0eb8f
+Author: Trevor Huis in 't Veld <trevorh.9173@gmail.com>
+Date:   Fri Apr 5 00:01:51 2019 +0000
+
+    Update create_db.py
+
+commit 7db96e4ded162e770c4194ffcf22acb281fbacd8
+Merge: 24e129c b11d3bf
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Thu Apr 4 18:58:58 2019 -0500
+
+    Merging with dev
+
+commit 24e129cc2393d7613de468f99057a9e1fc95c349
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Thu Apr 4 18:53:54 2019 -0500
+
+    Adding IDB2.log
+
+commit ff5a047742acd7d5ee5dba3419d280e3d739a5d7
+Author: trevorhuis <trevorh.9173@gmail.com>
+Date:   Thu Apr 4 18:51:41 2019 -0500
+
+    fixed tables on authors and publishers
+
+commit b206acae6ee20dd1e28dbe39fe713b3571ab1893
+Author: trevorhuis <trevorh.9173@gmail.com>
+Date:   Thu Apr 4 18:50:53 2019 -0500
+
+    fixed tables on authors and publishers
+
+commit f757db52e2117059d3bb68da77b9d81db6abb5c7
+Author: trevorhuis <trevorh.9173@gmail.com>
+Date:   Thu Apr 4 18:28:05 2019 -0500
+
+    Add more model links
+
+commit 420025da06b4f27ddb5896788accaccf71acf80e
+Author: trevorhuis <trevorh.9173@gmail.com>
+Date:   Thu Apr 4 18:20:57 2019 -0500
+
+    Delete unnecesary files
+
+commit 87afa01f7c7acd4da8ac650008433a5f2c89019a
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Thu Apr 4 23:19:24 2019 +0000
+
+    Delete resources.py
+
+commit 091fe4cd38596316fda426d3ca6ede1cbb657546
+Merge: 7792581 c1470ea
+Author: trevorhuis <trevorh.9173@gmail.com>
+Date:   Thu Apr 4 18:16:27 2019 -0500
+
+    Merge branch 'dev' of https://gitlab.com/djsnyder4406/cs329e-idb into dev
+    for website updating
+
+commit 779258192ec2e372d06f056d6458fd36815514ea
+Author: trevorhuis <trevorh.9173@gmail.com>
+Date:   Thu Apr 4 18:16:17 2019 -0500
+
+    Add more model links
+
+commit c1470ead762c90c00c16bb2c57169366def7d3a5
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Thu Apr 4 22:39:26 2019 +0000
+
+    Update about.html
+
+commit 06163c8ce08051818a937340a540142c74180171
+Merge: 00e85dc 9ff24ef
+Author: trevorhuis <trevorh.9173@gmail.com>
+Date:   Thu Apr 4 17:30:51 2019 -0500
+
+    update website
+
+commit 00e85dce3ac9d27411bac1776c6042cc16482e1f
+Author: trevorhuis <trevorh.9173@gmail.com>
+Date:   Thu Apr 4 17:25:40 2019 -0500
+
+    updated website
+
+commit 9ff24ef6e66c83b64b6f78d06bca9247da40d8b6
+Author: Uriel Buitrago <uriel.buitrago@utexas.edu>
+Date:   Thu Apr 4 17:18:24 2019 -0500
+
+    models.html created
+
+commit 9b275783f9ec0d58a7f8dc6a93076bd7969d97ef
+Merge: 4d23c82 6021f21
+Author: Uriel Buitrago <uriel.buitrago@utexas.edu>
+Date:   Thu Apr 4 16:49:57 2019 -0500
+
+    Merge branch 'dev' of https://gitlab.com/djsnyder4406/cs329e-idb into dev
+
+commit 4d23c828146c0398586c5e7391386968ad160ef7
+Author: Uriel Buitrago <uriel.buitrago@utexas.edu>
+Date:   Thu Apr 4 16:47:30 2019 -0500
+
+    added screenshot
+
+commit 6021f21b5a804ebe23475b332b05291676e608c5
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Thu Apr 4 21:43:12 2019 +0000
+
+    Update about.html
+
+commit dcbd2165c4ed22d6330f25b562a7f76c1c4d952e
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Thu Apr 4 21:38:49 2019 +0000
+
+    Update about.html
+
+commit 856c2044951fc5ed327cfb1cd64a4834eee59670
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Thu Apr 4 21:35:11 2019 +0000
+
+    Update about.html
+
+commit 10afc4c787fc79cc093199880a8cfddfa2db9721
+Author: Uriel Buitrago <uriel.buitrago@utexas.edu>
+Date:   Thu Apr 4 16:31:26 2019 -0500
+
+    added screenshot
+
+commit 37b8bf73c3001ce680b8bea8d4bca7e5a7a5fae0
+Author: trevorhuis <trevorh.9173@gmail.com>
+Date:   Thu Apr 4 15:45:22 2019 -0500
+
+    add pubID and AuthorID
+
+commit ee905346f4b38bc5e3041c11d829c583500e8b2d
+Merge: f0ff7b9 44a0f61
+Author: trevorhuis <trevorh.9173@gmail.com>
+Date:   Thu Apr 4 15:39:43 2019 -0500
+
+    Merge branch 'dev' of https://gitlab.com/djsnyder4406/cs329e-idb into dev
+    fixed having two apps
+
+commit f0ff7b91b09d78385d2e6c7d5a592d6cf1545894
+Author: trevorhuis <trevorh.9173@gmail.com>
+Date:   Thu Apr 4 15:39:16 2019 -0500
+
+    Fixed having two apps
+
+commit 44a0f6122f47dca39f61a3c6863b5474d8f315c4
+Author: Uriel Buitrago <uriel.buitrago@utexas.edu>
+Date:   Thu Apr 4 15:39:13 2019 -0500
+
+    Added html coverage report
+
+commit f5c9ab58f1bbe840a66665571b506cc23afed5c9
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Thu Apr 4 14:49:04 2019 -0500
+
+    Added corner cases
+
+commit f48c4fe899b8edb0c8a418608b0e82b6e9127563
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Thu Apr 4 14:42:45 2019 -0500
+
+    Fixed typo in test
+
+commit 6a28a8979471d7f1dcc72b784a8504173aa30979
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Thu Apr 4 14:40:07 2019 -0500
+
+    Adding tests
+
+commit 86c0db4cc09507637507fae75a4fbdd9c0416353
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Thu Apr 4 14:14:41 2019 -0500
+
+    Ind error
+
+commit f03d2f0f9aa5c1fc06e19ef426a03ffcf84b1f27
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Thu Apr 4 14:12:03 2019 -0500
+
+    Fixed indentation error
+
+commit 6dc379daf755b27342c607507050c5888812218c
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Thu Apr 4 14:07:04 2019 -0500
+
+    Fixed indentation error
+
+commit 5909d6e382c3ce8eecf72f54b3d6348bd865099f
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Thu Apr 4 14:01:39 2019 -0500
+
+    Fixed syntax error on test.py
+
+commit 835d46e175b1617c08659d72d53127a17f3d1179
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Thu Apr 4 13:58:21 2019 -0500
+
+    Added two tests
+
+commit 3c618d44deffa0e82b41d2db8e881dd1306129ec
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Thu Apr 4 18:32:27 2019 +0000
+
+    Delete tests.py
+
+commit 3f78e2dc36d9750b305fe576933b553f20bee12a
+Author: Nicolas Arrieche <nicolas.arrieche@utexas.edu>
+Date:   Thu Apr 4 18:30:17 2019 +0000
+
+    Update create_db.py
+
+commit d64c9749977d0a08720dc9227bd9890abdd6ec57
+Author: Trevor Huis in 't Veld <trevorh.9173@gmail.com>
+Date:   Thu Apr 4 18:28:16 2019 +0000
+
+    Update test.py
+
+commit 923a92b8fe7760ba946b1ed98f3fb8f1675e92e6
+Author: Trevor Huis in 't Veld <trevorh.9173@gmail.com>
+Date:   Thu Apr 4 18:27:05 2019 +0000
+
+    Update create_db.py
+
+commit b734c3f392c82283f7d6c015004a032e3eda4312
+Merge: 243d92b 677620c
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Thu Apr 4 13:18:09 2019 -0500
+
+    Merge branch 'dev' of https://gitlab.com/djsnyder4406/cs329e-idb into dev
+
+commit 243d92b9c3233cb98b880734e9b2c2992344ab8a
+Merge: 35764f9 b3bda01
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Thu Apr 4 13:17:56 2019 -0500
+
+    Added template for running test on about
+
+commit 677620c893526bdb81836a0f165acec3f2fa81de
+Author: Trevor Huis in 't Veld <trevorh.9173@gmail.com>
+Date:   Thu Apr 4 18:16:48 2019 +0000
+
+    Update models.py
+
+commit 14ee85735823fcf004f3d2207db61cc13c4b9f84
+Author: Trevor Huis in 't Veld <trevorh.9173@gmail.com>
+Date:   Thu Apr 4 18:14:14 2019 +0000
+
+    Update models.py
+
+commit 9b3c4ca8cd2c312c435b61e3c24acfb337e8b92f
+Author: Trevor Huis in 't Veld <trevorh.9173@gmail.com>
+Date:   Thu Apr 4 18:11:50 2019 +0000
+
+    Update models.py
+
+commit 35764f9a1e7a75e292f553109ae03f78d0088137
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Thu Apr 4 13:10:21 2019 -0500
+
+    Adding template to test from about page
+
+commit b3bda013221579dc87e507a372f7c22e5bedaaad
+Author: Trevor Huis in 't Veld <trevorh.9173@gmail.com>
+Date:   Thu Apr 4 18:08:52 2019 +0000
+
+    Update models.py
+
+commit 88d62552de63289400ac133d7716d8afb12970af
+Author: Trevor Huis in 't Veld <trevorh.9173@gmail.com>
+Date:   Thu Apr 4 18:06:41 2019 +0000
+
+    Update create_db.py
+
+commit 1017ac1347953c17144fdb78a86e68d5a022a4df
+Author: Trevor Huis in 't Veld <trevorh.9173@gmail.com>
+Date:   Thu Apr 4 18:02:54 2019 +0000
+
+    Update models.py
+
+commit 6864d64d25b2b56c10b125f122c622336bf96cd5
+Author: Trevor Huis in 't Veld <trevorh.9173@gmail.com>
+Date:   Thu Apr 4 18:00:34 2019 +0000
+
+    Update models.py
+
+commit 8b7f68a7f4d0fb5a15eec8ef6caaa62af96d3873
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Thu Apr 4 17:56:06 2019 +0000
+
+    Update create_db.py
+
+commit b11d3bf1c041cf6eedbba53f9a9105106cc50b35
+Author: Trevor Huis in 't Veld <trevorh.9173@gmail.com>
+Date:   Thu Apr 4 17:55:55 2019 +0000
+
+    Update models.py
+
+commit c7aa708c1e6a7f4a18899893555e37fa989a07f6
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Thu Apr 4 17:51:25 2019 +0000
+
+    Update create_db.py
+
+commit e3d13525d05ceb54fe294ad14581285e29b8db46
+Author: Trevor Huis in 't Veld <trevorh.9173@gmail.com>
+Date:   Thu Apr 4 17:48:14 2019 +0000
+
+    Update models.py
+
+commit d2ddfe064311c97c2fc408900195adc93268e55d
+Author: Trevor Huis in 't Veld <trevorh.9173@gmail.com>
+Date:   Thu Apr 4 17:45:03 2019 +0000
+
+    Update models.py
+
+commit 4fea1d5ed0cc2423fa7aed8b24ee4999eef1904e
+Author: Trevor Huis in 't Veld <trevorh.9173@gmail.com>
+Date:   Thu Apr 4 17:41:47 2019 +0000
+
+    Update models.py
+
+commit 7b9f4291803be3d8580ae4bef684296563dee351
+Author: Trevor Huis in 't Veld <trevorh.9173@gmail.com>
+Date:   Thu Apr 4 17:38:11 2019 +0000
+
+    Update models.py
+
+commit a350994e34a74bcba237c49cc1b1e8e0c990d36f
+Author: Trevor Huis in 't Veld <trevorh.9173@gmail.com>
+Date:   Thu Apr 4 17:37:03 2019 +0000
+
+    Update create_db.py
+
+commit 2417c193571e9cc132763854db89e8618d8dd0ea
+Author: Trevor Huis in 't Veld <trevorh.9173@gmail.com>
+Date:   Thu Apr 4 16:44:50 2019 +0000
+
+    Update create_db.py
+
+commit 9cbb4516b1958b077f8bc5afaa8139a02091d01b
+Author: Trevor Huis in 't Veld <trevorh.9173@gmail.com>
+Date:   Thu Apr 4 16:41:25 2019 +0000
+
+    Update create_db.py
+
+commit 535b1eeaf5e1b82bb948bba9e0e613f9425fe24d
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Thu Apr 4 16:37:59 2019 +0000
+
+    Update create_db.py
+
+commit 4b4fdf01baee38aa6e647f892645549096cfee78
+Author: Uriel Buitrago <uriel.buitrago@utexas.edu>
+Date:   Thu Apr 4 11:36:07 2019 -0500
+
+    edited DB_STRING
+
+commit 679963f252f56c78913216a5cdf4c6de75eceda7
+Author: trevorhuis <trevorh.9173@gmail.com>
+Date:   Thu Apr 4 11:33:31 2019 -0500
+
+    bringing JSON's out of databse_files
+
+commit 760bd340696c21bcfc42405e11b81c18d7592a15
+Author: trevorhuis <trevorh.9173@gmail.com>
+Date:   Thu Apr 4 11:29:58 2019 -0500
+
+    Take files out of database_files
+
+commit f4fd38c1dbcab56a45a11d566b6853f6a3c33eaf
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Thu Apr 4 16:25:00 2019 +0000
+
+    Update models.py
+
+commit d0037c56e616266812ac7acad796e38bc45a601b
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Thu Apr 4 16:21:18 2019 +0000
+
+    Update models.py
+
+commit 9db1b2d81103bd2abd8184b5cb9e06d9ed33a27b
+Author: Uriel Buitrago <uriel.buitrago@utexas.edu>
+Date:   Thu Apr 4 16:17:58 2019 +0000
+
+    Update models.py
+
+commit c30f11b297beb098f42be1a4d88a679f0ce4149b
+Author: Uriel Buitrago <uriel.buitrago@utexas.edu>
+Date:   Thu Apr 4 16:13:37 2019 +0000
+
+    Update .gitlab-ci.yml
+
+commit c2893e0466fa4e2b85ed7bd81ef99dabdb1147f8
+Author: Uriel Buitrago <uriel.buitrago@utexas.edu>
+Date:   Thu Apr 4 16:13:02 2019 +0000
+
+    Update .gitlab-ci.yml
+
+commit 7b62d84d90064b7c1d0aed48d1d34ccca6506dab
+Merge: 95088fd 3354257
+Author: Uriel Buitrago <uriel.buitrago@utexas.edu>
+Date:   Thu Apr 4 01:16:52 2019 -0500
+
+    Merge branch 'dev' of https://gitlab.com/djsnyder4406/cs329e-idb into dev
+
+commit 95088fd9c3550b6ea5b90a5285be2d32fff911f2
+Author: Uriel Buitrago <uriel.buitrago@utexas.edu>
+Date:   Thu Apr 4 01:16:42 2019 -0500
+
+    1:16 AM
+
+commit 3354257190d0867b2017d1905932153fbe03fbee
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Thu Apr 4 01:05:22 2019 -0500
+
+    Used .get() to get isbn, pubDate, etc values
+
+commit 77b13107b111b895e3e0f797f23f71b3b397fdb5
+Merge: dd3ec50 2ab2ed1
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Thu Apr 4 00:57:26 2019 -0500
+
+    Merge branch 'dev' of https://gitlab.com/djsnyder4406/cs329e-idb into dev
+
+commit dd3ec50aa08370d83fb449337f2fc9fd91045738
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Thu Apr 4 00:57:11 2019 -0500
+
+    oneBook print test
+
+commit 2ab2ed1c2caf4af264d26ea3114d8114475055c6
+Merge: e8097d3 49ae8aa
+Author: Uriel Buitrago <uriel.buitrago@utexas.edu>
+Date:   Thu Apr 4 00:55:28 2019 -0500
+
+    Merge branch 'dev' of https://gitlab.com/djsnyder4406/cs329e-idb into dev
+
+commit e8097d3b64fe23b997c514a31e4c815c2ccaf93e
+Author: Uriel Buitrago <uriel.buitrago@utexas.edu>
+Date:   Thu Apr 4 00:55:16 2019 -0500
+
+    edited app.yaml DB_STRING
+
+commit 49ae8aa602a2cefbe462125eb985f0b52abd9dc0
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Thu Apr 4 00:50:29 2019 -0500
+
+    Test on author, publisher, id
+
+commit cd9941b4864dce5c9f9c746fa19e86c277dd1328
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Thu Apr 4 00:46:01 2019 -0500
+
+    ISBN test 2
+
+commit 037fdaf2b11e3b93d950a8921dffa758d33dc8ee
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Thu Apr 4 00:42:20 2019 -0500
+
+    Attempt to fix isbn key error
+
+commit 62c942a483125a0cf88ad58e59b87b8eb59ab94f
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Thu Apr 4 00:36:31 2019 -0500
+
+    Added attributes to call back to Book class
+
+commit ec81870ab5a4d3e0f7fdc1f09801fe5dd88bfbbb
+Merge: 059a9ae 48ce9d3
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Thu Apr 4 00:29:13 2019 -0500
+
+    Merge branch 'dev' of https://gitlab.com/djsnyder4406/cs329e-idb into dev
+
+commit 059a9ae2d529eb43d1a177c5c0ce7fdf799fb931
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Thu Apr 4 00:29:10 2019 -0500
+
+    Changed order of book attributes
+
+commit 48ce9d37c71b800e84163bbcd4f9962b66f2ffc6
+Merge: 40462d8 16ac454
+Author: Uriel Buitrago <uriel.buitrago@utexas.edu>
+Date:   Thu Apr 4 00:21:43 2019 -0500
+
+    Merge branch 'dev' of https://gitlab.com/djsnyder4406/cs329e-idb into dev
+
+commit 40462d8ece08a2aa1b7fcb796f3707d606deed8a
+Author: Uriel Buitrago <uriel.buitrago@utexas.edu>
+Date:   Thu Apr 4 00:21:09 2019 -0500
+
+    fixed app.run()
+
+commit 16ac4549087a711d66860414ac20d02e24915967
+Merge: 828ace0 48bb9df
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Thu Apr 4 05:13:53 2019 +0000
+
+    w
+    Merge branch 'dev' of https://gitlab.com/djsnyder4406/cs329e-idb into dev
+
+commit 828ace0402ffa9583eb8c7b97df0994f96c2c142
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Thu Apr 4 05:13:43 2019 +0000
+
+    changed models.py again
+
+commit 48bb9df5d3560669fa313705011958da3ec31eb4
+Merge: 10b2f84 f9aaea9
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Thu Apr 4 00:07:53 2019 -0500
+
+    Merge branch 'dev' of https://gitlab.com/djsnyder4406/cs329e-idb into dev
+
+commit 10b2f84582b4e8af5a9ca46f2d950cec48c49c26
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Thu Apr 4 00:07:42 2019 -0500
+
+    Fixed how to get author name (added index)
+
+commit cbed7fd67319d15ed825a7deda9f947b05a0b03c
+Merge: 1839de7 6f1e5ff
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Thu Apr 4 04:59:00 2019 +0000
+
+    changed models.py
+
+commit f9aaea9de088dd5d7f24f8a6c25892f36b754eeb
+Author: Uriel Buitrago <uriel.buitrago@utexas.edu>
+Date:   Thu Apr 4 04:58:54 2019 +0000
+
+    Delete models.py
+
+commit 1839de74af362633fc454c9ca494ce7a6242b7aa
+Merge: e7dc255 c241375
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Thu Apr 4 04:55:53 2019 +0000
+
+    changed models.py
+
+commit 6f1e5ff0401889c2169991cec6f215e3067ef708
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Thu Apr 4 04:55:25 2019 +0000
+
+    Update models.py
+
+commit e7dc2551d5ab5884fb5efc1fd888514dedbd1fa7
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Thu Apr 4 04:54:12 2019 +0000
+
+    changed models.py again
+
+commit c241375cdee2dc844722de955a407c2b7dc826b4
+Merge: f924f34 063f159
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Wed Apr 3 23:48:40 2019 -0500
+
+    Merge branch 'dev' of https://gitlab.com/djsnyder4406/cs329e-idb into dev
+
+commit f924f34b4694383628ad0ce7ebbce725b1d64373
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Wed Apr 3 23:48:19 2019 -0500
+
+    Changed Books to books in create_db
+
+commit 063f159fb57cd96b038ed52ae24f8a1ac042a30c
+Author: Uriel Buitrago <uriel.buitrago@utexas.edu>
+Date:   Thu Apr 4 04:43:57 2019 +0000
+
+    Update models.py
+
+commit 0a4f336aafaeb9fc7644a9a1b4cde758a794938f
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Wed Apr 3 23:42:03 2019 -0500
+
+    Made copy of books.json on main directory (for test)
+
+commit b6e5aa66a3d5d5b378da9a3efbc57c70b5b91055
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Thu Apr 4 04:29:42 2019 +0000
+
+    Update models.py
+
+commit 2947439604520aa2f6ce71ae199956668668d6fa
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Thu Apr 4 04:23:37 2019 +0000
+
+    trying to fix models.py
+
+commit 79af0cd70c75f98e722031336b089a9275bbf26f
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Wed Apr 3 23:13:11 2019 -0500
+
+    Changed to test.py
+
+commit 13bc1d77e39519783ada91fb6acd9daebf85ccec
+Author: Uriel Buitrago <uriel.buitrago@utexas.edu>
+Date:   Thu Apr 4 04:12:40 2019 +0000
+
+    Update app.yaml
+
+commit 1e89a1c2022a1ef543c7bd689afe92e87d5112ec
+Author: Uriel Buitrago <uriel.buitrago@utexas.edu>
+Date:   Thu Apr 4 04:08:57 2019 +0000
+
+    Update app.yaml
+
+commit 5344540dea07b51804db378e1cf662bf87f3de47
+Author: Uriel Buitrago <uriel.buitrago@utexas.edu>
+Date:   Thu Apr 4 04:08:15 2019 +0000
+
+    Update models.py
+
+commit 7d9a5dc71c77e1b912aa540ff5c9b0c491e2cfd5
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Thu Apr 4 03:35:44 2019 +0000
+
+    Update models.py
+
+commit 63428f15f261f8a892f8d3ad85b527cea66ce3d3
+Merge: 29e9d11 657b2f2
+Author: Uriel Buitrago <uriel.buitrago@utexas.edu>
+Date:   Wed Apr 3 22:34:35 2019 -0500
+
+    Merge branch 'dev' of https://gitlab.com/djsnyder4406/cs329e-idb into dev
+
+commit 657b2f2e9aab3aa53517979be95b90e3b8e89f8d
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Thu Apr 4 03:34:11 2019 +0000
+
+    Update models.py
+
+commit 29e9d112e1d4a4f5d8ddb700dfb91df181094e21
+Author: Uriel Buitrago <uriel.buitrago@utexas.edu>
+Date:   Wed Apr 3 22:32:23 2019 -0500
+
+    Added yml and unit tests
+
+commit 43d49e6859578032c1057b19b7d962a48274b80a
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Thu Apr 4 03:31:12 2019 +0000
+
+    Update models.py
+
+commit e5a0524c840f1a7a7bec4beca4e68a6038a9437e
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Thu Apr 4 03:29:34 2019 +0000
+
+    Update models.py
+
+commit af6a359384d5a7bf5b5a50fd96dde8491da08343
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Thu Apr 4 03:28:40 2019 +0000
+
+    Update models.py
+
+commit 54da7705360a8e0482361fd843fdba6b17e7fc88
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Thu Apr 4 02:40:39 2019 +0000
+
+    Update models.py
+
+commit cfe8669ed4545465b01c312175c535aa27db2a06
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Thu Apr 4 02:37:41 2019 +0000
+
+    moved models.py out of subdir
+
+commit 45e29c7b59da8f3c5dd56c3c1c7be5ef031dea33
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Thu Apr 4 02:36:23 2019 +0000
+
+    moved create_db out of subdir
+
+commit 8fe1d13b264c25eef79dc261af4c59f280fe7d3d
+Merge: 3d3a14c 4df7d7e
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Thu Apr 4 02:32:02 2019 +0000
+
+    Merge branch 'dev' of https://gitlab.com/djsnyder4406/cs329e-idb into dev
+
+commit 3d3a14c7feb22c9599bdbda12bbf0f6745a660e7
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Thu Apr 4 02:31:56 2019 +0000
+
+    hello
+
+commit 4df7d7eaf326a3717903ee7f65bea4a568017a87
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Thu Apr 4 02:27:19 2019 +0000
+
+    Update main.py
+
+commit cff402158ab396bea11e77c7d18aadd5256e95cb
+Merge: 55268cc 118e74c
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Wed Apr 3 21:13:23 2019 -0500
+
+    Merge branch 'master' into dev
+
+commit 118e74cea684e346c3884a1722755e947f1b059f
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Wed Apr 3 21:12:51 2019 -0500
+
+    Fixed pic file names in about.html
+
+commit 55268cc05c860466fa892ce31074ff8f89107f25
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Wed Apr 3 21:04:47 2019 -0500
+
+    Fixed Nico picture file name
+
+commit b1ee25a8e310d5c69f8a1f2e856e37d06ba0ed64
+Author: Uriel Buitrago <uriel.buitrago@utexas.edu>
+Date:   Thu Apr 4 02:00:07 2019 +0000
+
+    Update models.py
+
+commit 28d756ae7b6fdfcd7b542fc0a0d0f313d61072c7
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Wed Apr 3 20:56:41 2019 -0500
+
+    Fixed picture file names
+
+commit 376edbae068ad8cf56d7b68e1682f23df4ba2087
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Wed Apr 3 23:39:27 2019 +0000
+
+    Update about.html
+
+commit 8f635a9d54abc2afce585295a39d613868f26a74
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Wed Apr 3 23:38:14 2019 +0000
+
+    Update about.html
+
+commit eb2bb534b639f73d08be32eda6ba6a10aa7afe4d
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Wed Apr 3 23:36:33 2019 +0000
+
+    Update about.html
+
+commit 9ee7c30699b882c470a9209955c45fa036962241
+Author: trevorhuis <trevorh.9173@gmail.com>
+Date:   Wed Apr 3 18:33:58 2019 -0500
+
+    Built database files off of demo from prof
+
+commit 5abf7ddc89691875eae428942e363d10a303e190
+Author: Uriel Buitrago <uriel.buitrago@utexas.edu>
+Date:   Wed Apr 3 18:13:49 2019 -0500
+
+    added requirements.txt
+
+commit 90c411d1883c74651133774d46bc3c10313cb508
+Author: Daniel Snyder <djsnyder@cs.utexas.edu>
+Date:   Wed Apr 3 18:13:43 2019 -0500
+
+    moved the kinda useless text files to one folder
+
+commit bd3527d4a585a23140b6ee6908e9c3d7fca7575e
+Author: Uriel Buitrago <uriel.buitrago@utexas.edu>
+Date:   Wed Apr 3 18:00:27 2019 -0500
+
+    indentation error fixed
+
+commit bb100e2cf30d992b4d6fe74f9467b1ea6d993da8
+Author: Uriel Buitrago <uriel.buitrago@utexas.edu>
+Date:   Wed Apr 3 17:56:01 2019 -0500
+
+    fixed DB name in string
+
+commit caf179ef3cb1e0490d306a22e83ef6e439f67a34
+Author: Uriel Buitrago <uriel.buitrago@utexas.edu>
+Date:   Wed Apr 3 17:49:02 2019 -0500
+
+    basic yaml
+
+commit caa428346e95773975d6f921da3f6bb57829291f
+Author: Uriel Buitrago <uriel.buitrago@utexas.edu>
+Date:   Wed Apr 3 17:29:09 2019 -0500
+
+    Added yaml file for GCP hosting
+
+commit e14da6dd037b021920584e2ef153adc7b680862f
+Merge: 1bbe08a 014ac51
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Tue Apr 2 13:36:52 2019 -0500
+
+    Merge branch 'dev'
+
+commit 014ac51aeac02a9458d798373bad90a35c08f166
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Tue Apr 2 13:35:58 2019 -0500
+
+    Adding Log
+
+commit 1bbe08ab406b766a5e0901fc405e3bfeab51eeb7
+Author: trevorhuis <trevorh.9173@gmail.com>
+Date:   Sun Mar 24 21:46:56 2019 -0500
+
+    Update the project statistics
+
+commit 7f781462c225d34c2f12dd45fcd0f0893ead81a8
+Merge: 2847707 91f3ff6
+Author: Raith Hamzah <raith.github.hamzah@gmail.com>
+Date:   Mon Mar 25 02:32:01 2019 +0000
+
+    Merge branch 'dev' into 'master'
+    
+    Dev
+    
+    See merge request djsnyder4406/cs329e-idb!1
+
+commit 91f3ff644b7160444143b9793edca61be0039d42
+Author: Raith Hamzah <raith.r.hamzah@gmail.com>
+Date:   Sun Mar 24 21:09:50 2019 -0500
+
+    Added missing bios.
+
+commit 7cd38598bc7bce05fc26afa57124224bc014920d
+Author: trevorhuis <trevorh.9173@gmail.com>
+Date:   Sun Mar 24 20:17:22 2019 -0500
+
+    Added about page
+
+commit af4379656b7986af72ae637f7270c7bf2c200cbf
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Sun Mar 24 19:40:01 2019 -0500
+
+    Adding bio
+
+commit 24732998d2d42f43568ffacaf54d6c9f09ed9990
+Merge: b0d0a8f 5913c52
+Author: Raith Hamzah <raith.r.hamzah@gmail.com>
+Date:   Sun Mar 24 18:13:44 2019 -0500
+
+    Merge branch 'dev' of https://gitlab.com/djsnyder4406/cs329e-idb into dev
+
+commit b0d0a8f0e883183b0bbca03ca1e87bfc25f24691
+Author: Raith Hamzah <raith.r.hamzah@gmail.com>
+Date:   Sun Mar 24 18:11:25 2019 -0500
+
+    Added sorting functionality to model pages.
+
+commit 5913c52b9da10e46684a9b3b40e694e749d2b5ca
+Author: trevorhuis <trevorh.9173@gmail.com>
+Date:   Sun Mar 24 17:33:12 2019 -0500
+
+    Add ability to hop between pages
+
+commit b60d089950d7aa8f92b239063bf03b2f29fbfbe4
+Author: Raith Hamzah <raith.r.hamzah@gmail.com>
+Date:   Sun Mar 24 17:16:18 2019 -0500
+
+    Fixed individual templates.
+
+commit 16e81b101fda9b36fe4e63f48c74aa8f7368d439
+Merge: 649f46d 0f71533
+Author: Raith Hamzah <raith.r.hamzah@gmail.com>
+Date:   Sun Mar 24 17:09:41 2019 -0500
+
+    Merge branch 'dev' of https://gitlab.com/djsnyder4406/cs329e-idb into dev
+
+commit 649f46d5b672a24b99f278ab3eefd077604d0f45
+Author: Raith Hamzah <raith.r.hamzah@gmail.com>
+Date:   Sun Mar 24 17:08:31 2019 -0500
+
+    Add id's and routes for instance pages.
+
+commit 0f71533816c40b1ea184f8d87d0377a3bc26d9b4
+Author: trevorhuis <trevorh.9173@gmail.com>
+Date:   Sun Mar 24 16:54:51 2019 -0500
+
+    Fix error on resources.py
+
+commit febff7707c39c70b4addf73841694842213141c4
+Author: trevorhuis <trevorh.9173@gmail.com>
+Date:   Sun Mar 24 16:53:45 2019 -0500
+
+    Fix error on resources.py
+
+commit f71a3fc96d3581d47cc92ef76494dbf626abb2ad
+Merge: 7e1c300 070d333
+Author: Raith Hamzah <raith.r.hamzah@gmail.com>
+Date:   Sun Mar 24 16:37:40 2019 -0500
+
+    Merge branch 'dev' of https://gitlab.com/djsnyder4406/cs329e-idb into dev
+
+commit 7e1c300640acaba3db3fd9cd31f87c0b432d7d47
+Author: Raith Hamzah <raith.r.hamzah@gmail.com>
+Date:   Sun Mar 24 16:37:19 2019 -0500
+
+    Added templates for individual object models.
+
+commit 070d3330c87a5428466cc2ac70c882b79507ff2b
+Author: trevorhuis <trevorh.9173@gmail.com>
+Date:   Sun Mar 24 16:31:00 2019 -0500
+
+    Adding Bio
+
+commit 9c0afee144b31e4559f5608e4f9534900fcb8fec
+Author: trevorhuis <trevorh.9173@gmail.com>
+Date:   Sun Mar 24 16:22:44 2019 -0500
+
+    Format resources
+
+commit d12feb07663010f277b231d203300ba95cdc1157
+Merge: da616fa 4749ba5
+Author: Raith Hamzah <raith.r.hamzah@gmail.com>
+Date:   Sun Mar 24 16:15:12 2019 -0500
+
+    Merge branch 'dev' of https://gitlab.com/djsnyder4406/cs329e-idb into dev
+
+commit da616fad6f07a80470d7262175f41afb200f37cd
+Author: Raith Hamzah <raith.r.hamzah@gmail.com>
+Date:   Sun Mar 24 16:14:52 2019 -0500
+
+    Fixed bug.
+
+commit 4749ba5e6279f2068f023b0ae673a14b022f0ba6
+Merge: f3d6b88 0fdb6fc
+Author: trevorhuis <trevorh.9173@gmail.com>
+Date:   Sun Mar 24 16:13:30 2019 -0500
+
+    Merge branch 'dev' of https://gitlab.com/djsnyder4406/cs329e-idb into dev
+
+commit f3d6b8809425b079b19b096792f6796ddf77c885
+Author: trevorhuis <trevorh.9173@gmail.com>
+Date:   Sun Mar 24 16:13:08 2019 -0500
+
+    Only 3 objects
+
+commit 0fdb6fc77e18951a187bd983dd8004350c9e7c66
+Merge: 596cb95 52454de
+Author: Raith Hamzah <raith.r.hamzah@gmail.com>
+Date:   Sun Mar 24 16:12:17 2019 -0500
+
+    Merge branch 'dev' of https://gitlab.com/djsnyder4406/cs329e-idb into dev
+
+commit 596cb95ea6986fe83bc910dccc15b7d258135364
+Author: Raith Hamzah <raith.r.hamzah@gmail.com>
+Date:   Sun Mar 24 16:11:43 2019 -0500
+
+    Updated Templates.
+
+commit 52454ded9cb03d77d2a2161e26af309b960bbef3
+Author: trevorhuis <trevorh.9173@gmail.com>
+Date:   Sun Mar 24 16:03:58 2019 -0500
+
+    Add Partial Resources
+
+commit 3b769bfcbe28fccf9e4b5cf2bf8b94f80e99bab0
+Merge: 4441c43 2efa3fc
+Author: Raith Hamzah <raith.r.hamzah@gmail.com>
+Date:   Sun Mar 24 15:55:21 2019 -0500
+
+    Merge branch 'dev' of https://gitlab.com/djsnyder4406/cs329e-idb into dev
+
+commit 4441c438f0ea7de05837d8803ce7318e2bb9841e
+Author: Raith Hamzah <raith.r.hamzah@gmail.com>
+Date:   Sun Mar 24 15:52:28 2019 -0500
+
+    Fixed templates.
+
+commit 2efa3fc5bc49d0431e2fc659f2544a03d53163d9
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Sun Mar 24 20:51:45 2019 +0000
+
+    Update splash.html to include Publishers nav item
+
+commit 2ab8b7791c905ef9512a0a03f3603ca15e0c9910
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Sun Mar 24 20:49:50 2019 +0000
+
+    Update base.html to include Publishers nav item
+
+commit 060301adfe3e745f523b7cda6537e93b7923d56c
+Merge: aac5b16 323061b
+Author: trevorhuis <trevorh.9173@gmail.com>
+Date:   Sun Mar 24 15:46:27 2019 -0500
+
+    Merge branch 'dev' of https://gitlab.com/djsnyder4406/cs329e-idb into dev
+
+commit 323061b4c4623156770a1013afb6a02b1ece93dc
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Sun Mar 24 20:41:48 2019 +0000
+
+    Added 'publishers.html' route to the Flask app.
+
+commit aac5b1668362726b8e655136925646b8da0c63ff
+Author: trevorhuis <trevorh.9173@gmail.com>
+Date:   Sun Mar 24 15:41:34 2019 -0500
+
+    Delete unused HTML
+
+commit 150ebad1e37ea510d0b55b3667434117f6bfba45
+Merge: 8c5c2f8 874cb33
+Author: Raith Hamzah <raith.r.hamzah@gmail.com>
+Date:   Sun Mar 24 15:40:32 2019 -0500
+
+    Merge branch 'dev' of https://gitlab.com/djsnyder4406/cs329e-idb into dev
+
+commit 8c5c2f83650138fa5486bb793feb1e416d38fe24
+Author: Raith Hamzah <raith.r.hamzah@gmail.com>
+Date:   Sun Mar 24 15:40:08 2019 -0500
+
+    Cleaned up pics folder.
+
+commit 422678abf559d562bc66a53dcdfa9cc4e1cef3a8
+Author: trevorhuis <trevorh.9173@gmail.com>
+Date:   Sun Mar 24 15:39:24 2019 -0500
+
+    Update templates and resources.py
+
+commit 874cb333eee5c211cca9261a74b32d9096510e64
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Sun Mar 24 20:37:40 2019 +0000
+
+    Update Daniel_Bio.txt
+
+commit ec1af9c02648644fe9597f2f5ef931be162e47dd
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Sun Mar 24 20:34:40 2019 +0000
+
+    Update publishers.html
+
+commit 0b7d20c001a4de238c224b4bbd1a8d82e64f9e17
+Merge: a3658cf d2665a4
+Author: Raith Hamzah <raith.r.hamzah@gmail.com>
+Date:   Sun Mar 24 15:33:53 2019 -0500
+
+    Merge branch 'dev' of https://gitlab.com/djsnyder4406/cs329e-idb into dev
+
+commit a3658cf059ca75c2cb2565e89ac69a3f86cb8f48
+Author: Raith Hamzah <raith.r.hamzah@gmail.com>
+Date:   Sun Mar 24 15:33:28 2019 -0500
+
+    Cleaned up templates. Removed pycache.
+
+commit d2665a45318606ecc4d6cf1b66eada074e134ac9
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Sun Mar 24 15:33:15 2019 -0500
+
+    Renamed Files
+
+commit 0c5ed844e74ff5d7ca2f49805014374130b821f2
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Sun Mar 24 20:31:34 2019 +0000
+
+    Add new file
+
+commit 1dbe2303ffac4acc5de0bea6f732cb4b943eae93
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Sun Mar 24 15:28:52 2019 -0500
+
+    Added bio and picture (Nico)
+
+commit a382cbe35ef71b7b92adfc10a6d750913769ebb9
+Merge: f0c4be1 f5c9b13
+Author: Raith Hamzah <raith.r.hamzah@gmail.com>
+Date:   Sun Mar 24 15:25:13 2019 -0500
+
+    Merge branch 'dev' of https://gitlab.com/djsnyder4406/cs329e-idb into dev
+
+commit f0c4be1e6f610fe52a53457b783416c971441be2
+Author: Raith Hamzah <raith.r.hamzah@gmail.com>
+Date:   Sun Mar 24 15:24:48 2019 -0500
+
+    Moved navigation to base.
+
+commit f5c9b132e9e02a1c3e0a58910bf6d64c544e958b
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Sun Mar 24 20:24:46 2019 +0000
+
+    Delete nico_bio.jpg
+
+commit 90a5df1bc69633483ea5e3657064f2a382b10efb
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Sun Mar 24 20:24:24 2019 +0000
+
+    Upload New File
+
+commit f9d0eb1816ddc4162144755b8cda79b5577cd340
+Author: Raith Hamzah <raith.r.hamzah@gmail.com>
+Date:   Sun Mar 24 15:22:14 2019 -0500
+
+    Added gitignore and updated templates to extend from base.
+
+commit 0350db89b55d0290337457d502902bb11e375a88
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Sun Mar 24 20:18:00 2019 +0000
+
+    Upload New File
+
+commit d024d61829ffe67aeb761ddcedd2f69ced596942
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Sun Mar 24 20:16:46 2019 +0000
+
+    Upload New File
+
+commit 4a209ca19be12887f47c607d0540a71a474764cf
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Sun Mar 24 20:13:20 2019 +0000
+
+    Upload New File
+
+commit c528644660ae34508b1a7a730f74e0ecc41dea42
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Sun Mar 24 20:11:16 2019 +0000
+
+    Upload New File
+
+commit 1a7ac33560cb7505766f93ffa7ad4766863a4fe9
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Sun Mar 24 20:11:05 2019 +0000
+
+    Delete 0.jpeg
+
+commit c3f6c9b014f0ef0a6713172f74637e92ffd97b54
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Sun Mar 24 20:10:50 2019 +0000
+
+    Replace 0.jpeg
+
+commit 2bba74eef1466715e7c797ff45ba9119ca774925
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Sun Mar 24 20:09:54 2019 +0000
+
+    Upload New File
+
+commit 934d7947ddded9293405e2913b79541656c4546f
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Sun Mar 24 20:07:32 2019 +0000
+
+    Add new directory
+
+commit 412c1ff47b958a8facfabc4b824ff9a3c7d741b1
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Sun Mar 24 20:06:25 2019 +0000
+
+    Update Bios.txt
+
+commit e715dd91c6f9d02e3959081b61104e91208eb8ab
+Author: Raith Hamzah <raith.r.hamzah@gmail.com>
+Date:   Sun Mar 24 15:02:18 2019 -0500
+
+    Added info for Raith Bio.
+
+commit 0c982003922978a8f5f22ee5456a3ccfa2c73319
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Fri Mar 22 23:17:21 2019 +0000
+
+    Update Publisher_Attributes
+
+commit ddee63207025513c2b70bd4a59a23375c5e9d8ee
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Fri Mar 22 23:02:22 2019 +0000
+
+    Update Publisher_Attributes
+
+commit 1eceaddecde5e5aed2e5864b2613a1b90c745f9b
+Author: trevorhuis <trevorh.9173@gmail.com>
+Date:   Mon Mar 11 13:54:07 2019 -0500
+
+    Added Authors and Books sites with tables
+
+commit e1bf71eb9ccc15e2f4b0fb09a2c213b4d66b8e7b
+Author: trevorhuis <trevorh.9173@gmail.com>
+Date:   Mon Mar 11 11:36:53 2019 -0500
+
+    Simple Flask Framework
+
+commit 9a756a6e0ca45f74639e0239662deae61ec0838c
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Sun Mar 10 18:17:09 2019 -0500
+
+    Added Book Attributes
+
+commit 9afbd030afa9d94d4a8defde37c33f353031d295
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Sun Mar 10 22:55:51 2019 +0000
+
+    Add new file
+
+commit 74d043273505cd11736621f227e3aecd1a466f4d
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Sun Mar 10 22:46:52 2019 +0000
+
+    Update Author_Attributes
+
+commit cb5c2711efb193c24043e4065c3163ce81ca6cb8
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Sun Mar 10 22:30:02 2019 +0000
+
+    Update Author_Attributes
+
+commit 7485bc11ae041ba1a2750b88115501e957c1cc13
+Merge: e774657 3ad460b
+Author: Raith Hamzah <raith.r.hamzah@gmail.com>
+Date:   Sun Mar 10 17:21:55 2019 -0500
+
+    Merge branch 'dev' of https://gitlab.com/djsnyder4406/cs329e-idb into dev
+
+commit e774657c538a27ed98073874810301c28a9da95e
+Author: Raith Hamzah <raith.r.hamzah@gmail.com>
+Date:   Sun Mar 10 17:21:31 2019 -0500
+
+    Added links to navbar. Ref #1.
+
+commit 3ad460b60719b1e842373f77c6f5015601c27aa0
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Sun Mar 10 22:19:24 2019 +0000
+
+    Add new file
+
+commit e2487bb21b9c75b418cf16826c355312addc7f2d
+Merge: 93ff0f9 bd020de
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Sun Mar 10 17:06:07 2019 -0500
+
+    Merge branch 'devNico' into dev
+
+commit bd020de353675fd424240fd265f0ca5dd584d558
+Author: nicoarrieche <nicolas.arrieche@utexas.edu>
+Date:   Sun Mar 10 17:04:17 2019 -0500
+
+    Text File with First Three Books
+
+commit 93ff0f90ba79f260703f651829bf1ed7792f1604
+Author: Raith Hamzah <raith.r.hamzah@gmail.com>
+Date:   Sun Mar 10 16:59:17 2019 -0500
+
+    Added basic markup for website. Ref #1.
+
+commit bd716ff0f70bf5366e55541d76728816b3182fc7
+Author: Raith Hamzah <raith.r.hamzah@gmail.com>
+Date:   Sun Mar 10 15:54:06 2019 -0500
+
+    Added index.html. Ref #1.
+
+commit 2847707bd1e9e35d7d731318921a14f700a53b19
+Author: Daniel Snyder <djsnyder4406@gmail.com>
+Date:   Sun Mar 10 18:23:12 2019 +0000
+
+    Initial commit

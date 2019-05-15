@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container">
+    <img src="{{ publisher.imageURL }}" style="width:200px;">
+    <div class="card">
+        <div class="card-header">
+            {{ publisher.name }}
+        </div>
+        <div class="card-body">
+            <p class="card-text">Location: {{ publisher.location }}</p>
+            <p class="card-text">Founding: {{ publisher.founding }}</p>
+            <p class="card-text">Parent Company: {{ publisher.parentCompany }}</p>
+            <a href="{{ publisher.website }}">Website</a>
+
+            
+        </div>
+    </div>
+    <table id="sort" class="table table-bordered table-hover">
+                <th>Books</th>
+                <th>Author</th>
+                {% for book in books_data %}
+                <tr>
+                    <td>
+                    <a href="../books/{{book.id}}">{{ book.title }}</a>
+                    </td>
+                    <td>
+                    <a href="../authors/{{book.authorID}}">{{ book.author }}</a>
+                    </td>
+                </tr>
+            {% endfor %}
+    </table>
+</div>
+
+{% endblock %}
